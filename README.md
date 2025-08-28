@@ -29,6 +29,11 @@ vegetable_dataset/
 ├── test/
 └── validation/
 ~~~
+## 📊 Results
+
+ - Achieved  85.23% accuracy on the test set.
+
+ - Model successfully distinguishes between vegetable categories.
 
 ---
 
